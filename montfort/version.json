@@ -1,5 +1,5 @@
 {
-    "version": 9,
+    "version": 10,
     "recommended-update": true,
-    "force-update": true
+    "force-update": false
 }
