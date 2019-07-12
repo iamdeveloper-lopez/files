@@ -1,5 +1,7 @@
 {
-    "version": 11,
-    "recommended-update": true,
-    "force-update": false
+    "version": 12,
+    "recommended-update": false,
+    "force-update": false,
+    "title": "Update Available",
+    "description": "What's new\n\n• Support for fullscreen video from webview or hotspot content\n• Play sound when triggered a hotspot"
 }
