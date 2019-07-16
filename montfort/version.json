@@ -1,7 +1,7 @@
 {
-    "version": 12,
+    "version": 13,
     "recommended-update": true,
     "force-update": false,
     "title": "Update Available",
-    "description": "What's new\n\n• Support for fullscreen video from webview or hotspot content\n• Play sound when triggered a hotspot"
+    "description": "What's new\n\n• Support IR Triggering before accessing content"
 }
